@@ -4,7 +4,6 @@
 for salary data 
 
 Data Description:
-
 age -- age of a person
 workclass	-- A work class is a grouping of work 
 education	-- Education of an individuals	
